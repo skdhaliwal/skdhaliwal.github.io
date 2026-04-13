@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "simranprofilepic.jpg"
+  avatar           : "simranprofilepic-square.png"
   name             : "Simran Dhaliwal"
   pronouns         : "she/her"  
   bio              : "PhD Student in Clinical Psychology. Clinical Extern at Captain James A Lovell Federal Health Care Center"
